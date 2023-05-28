@@ -52,7 +52,3 @@ Remove their items.
 -   **Database**: MySQL
 -   **Server**: Apache Tomcat
   
-
--   **Server**
-
-Apache Tomcat
