@@ -1,13 +1,13 @@
-# Legit_Online_Auction_Project
+### Legit_Online_Auction_Project
 This repository contains the source code and project files for "Legit," an online auction site developed as part of a course project for Enterprise Software Design. Legit is a platform where users can buy and sell various items through auctions.
 
 
-**Project Overview**
+## Project Overview
 
 “Legit” is an online auction system that allow users to create and manage items up for auction. It is a web application which includes photos, descriptions, and setting starting bids. This web application makes it convenient for the users to bid/sell from the comfort of their homes.
 
   
-**Roles and Functionalities**
+## Roles and Functionalities
 
 There are different roles and its functionalities for this project such as:
 
@@ -45,24 +45,12 @@ Remove their items.
 
   
 
-**Technical Stack**
+## Technologies Used
 
--   **Client Side**
-
-HTML, CSS, Bootstrap, JavaScript, JSP
-
-  
-
--   **Server Side**
-
-Spring MVC, Spring Boot, Hibernate
-
-  
-
--   **Database**
-
-MySQL
-
+-   **Client Side**: HTML, CSS, Bootstrap, JavaScript, JSP
+-   **Server Side**: Spring MVC, Spring Boot, Hibernate
+-   **Database**: MySQL
+-   **Server**: Apache Tomcat
   
 
 -   **Server**
